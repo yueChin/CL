@@ -1,0 +1,50 @@
+{
+  "infoList": [
+    {
+      "panelTypeString": "Start",
+      "path": "UI/UIPanel/StartPanel"
+    },
+
+    {
+      "panelTypeString": "Play",
+      "path": "UI/UIPanel/PlayPanel"
+    },
+
+    {
+      "panelTypeString": "End",
+      "path": "UI/UIPanel/EndPanel"
+    },
+
+    {
+      "panelTypeString": "Pause",
+      "path": "UI/UIPanel/PausePanel"
+    },
+
+    {
+      "panelTypeString": "Exit",
+      "path": "UI/UIPanel/ExitPanel"
+    },
+
+    {
+      "panelTypeString": "Battle",
+      "path": "UI/UIPanel/BattlePanel"
+    },
+
+    {
+      "panelTypeString": "Dialog",
+      "path": "UI/UIPanel/DialogPanel"
+    },
+    {
+      "panelTypeString": "SlotInfo",
+      "path": "UI/UIPanel/SlotInfoPanel"
+    },
+    {
+      "panelTypeString": "Player",
+      "path": "UI/UIPanel/PlayerPanel"
+    },
+    {
+      "panelTypeString": "ReleaseSkill",
+      "path": "UI/UIPanel/ReleaseSkillPanel"
+    }
+  ]
+}

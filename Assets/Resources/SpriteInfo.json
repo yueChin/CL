@@ -1,0 +1,312 @@
+{
+  "SpriteInfoList": [
+    {
+      "PlayerSpriteList": [
+        {
+          "SpriteString": "Hunter",
+          "SpritePath": "Sprites/Creature/Player/Hunter"
+        },
+        {
+          "SpriteString": "Sphere",
+          "SpritePath": "Sprites/Creature/Player/Sphere"
+        },
+        {
+          "SpriteString": "Bag",
+          "SpritePath": "Sprites/Creature/Player/Bag"
+        },
+        {
+          "SpriteString": "Barrel",
+          "SpritePath": "Sprites/Creature/Player/Barrel"
+        },
+        {
+          "SpriteString": "Bucket",
+          "SpritePath": "Sprites/Creature/Player/Bucket"
+        }
+      ],
+      "NPCSpriteList": [
+        {
+          "SpriteString": "Wizard",
+          "SpritePath": "Sprites/Creature/NPC/Wizard"
+        },
+        {
+          "SpriteString": "Warrior",
+          "SpritePath": "Sprites/Creature/NPC/Warrior"
+        },
+        {
+          "SpriteString": "Vendor",
+          "SpritePath": "Sprites/Creature/NPC/Vendor"
+        },
+        {
+          "SpriteString": "Traveller",
+          "SpritePath": "Sprites/Creature/NPC/Traveller"
+        },
+        {
+          "SpriteString": "Trader",
+          "SpritePath": "Sprites/Creature/NPC/Trader"
+        },
+        {
+          "SpriteString": "Citizen",
+          "SpritePath": "Sprites/Creature/NPC/Citizen"
+        },
+        {
+          "SpriteString": "Blacksmith",
+          "SpritePath": "Sprites/Creature/NPC/Blacksmith"
+        }
+      ],
+      "EnemySpriteList": [
+        {
+          "SpriteString": "Thief",
+          "SpritePath": "Sprites/Creature/Enemy/Thief"
+        },
+        {
+          "SpriteString": "Robber",
+          "SpritePath": "Sprites/Creature/Enemy/Robber"
+        },
+        {
+          "SpriteString": "Private",
+          "SpritePath": "Sprites/Creature/Enemy/Private"
+        },
+        {
+          "SpriteString": "Cateran",
+          "SpritePath": "Sprites/Creature/Enemy/Cateran"
+        },
+        {
+          "SpriteString": "Brigand",
+          "SpritePath": "Sprites/Creature/Enemy/Brigand"
+        },
+        {
+          "SpriteString": "Bandit",
+          "SpritePath": "Sprites/Creature/Enemy/Bandit"
+        }
+      ],
+      "WeaponSpriteList": [
+        {
+          "SpriteString": "Knife",
+          "SpritePath": "Sprites/Gears/Weapon/Knife"
+        },
+        {
+          "SpriteString": "Stick",
+          "SpritePath": "Sprites/Gears/Weapon/Stick"
+        },
+        {
+          "SpriteString": "Saw",
+          "SpritePath": "Sprites/Gears/Weapon/Saw"
+        },
+        {
+          "SpriteString": "Hoe",
+          "SpritePath": "Sprites/Gears/Weapon/Hoe"
+        },
+        {
+          "SpriteString": "Sinker",
+          "SpritePath": "Sprites/Gears/Weapon/Sinker"
+        },
+        {
+          "SpriteString": "Shovel",
+          "SpritePath": "Sprites/Gears/Weapon/Shovel"
+        },
+        {
+          "SpriteString": "Rake",
+          "SpritePath": "Sprites/Gears/Weapon/Rake"
+        },
+        {
+          "SpriteString": "Axe",
+          "SpritePath": "Sprites/Gears/Weapon/Axe"
+        },
+        {
+          "SpriteString": "Sword",
+          "SpritePath": "Sprites/Gears/Weapon/Sword"
+        },
+        {
+          "SpriteString": "Dagger",
+          "SpritePath": "Sprites/Gears/Weapon/Dagger"
+        },
+        {
+          "SpriteString": "Staff",
+          "SpritePath": "Sprites/Gears/Weapon/Staff"
+        },
+        {
+          "SpriteString": "Yataghan",
+          "SpritePath": "Sprites/Gears/Weapon/Yataghan"
+        },
+        {
+          "SpriteString": "Sickle",
+          "SpritePath": "Sprites/Gears/Weapon/Sickle"
+        },
+        {
+          "SpriteString": "WarHammer",
+          "SpritePath": "Sprites/Gears/Weapon/WarHammer"
+        },
+        {
+          "SpriteString": "Glaive",
+          "SpritePath": "Sprites/Gears/Weapon/Glaive"
+        },
+        {
+          "SpriteString": "Spear",
+          "SpritePath": "Sprites/Gears/Weapon/Spear"
+        },
+        {
+          "SpriteString": "Hatchet",
+          "SpritePath": "Sprites/Gears/Weapon/Hatchet"
+        }
+      ],
+      "AmorSpriteList": [
+        {
+          "SpriteString": "Caliga",
+          "SpritePath": "Sprites/Gears/Amor/Caliga"
+        },
+        {
+          "SpriteString": "Poleyn",
+          "SpritePath": "Sprites/Gears/Amor/Poleyn"
+        },
+        {
+          "SpriteString": "Cuisse",
+          "SpritePath": "Sprites/Gears/Amor/Cuisse"
+        },
+        {
+          "SpriteString": "Tasses",
+          "SpritePath": "Sprites/Gears/Amor/Tasses"
+        },
+        {
+          "SpriteString": "Skirt",
+          "SpritePath": "Sprites/Gears/Amor/Skirt"
+        },
+        {
+          "SpriteString": "Brace",
+          "SpritePath": "Sprites/Gears/Amor/Brace"
+        },
+        {
+          "SpriteString": "Breastplate",
+          "SpritePath": "Sprites/Gears/Amor/Breastplate"
+        },
+        {
+          "SpriteString": "Corselet",
+          "SpritePath": "Sprites/Gears/Amor/Corselet"
+        },
+        {
+          "SpriteString": "Pauldron",
+          "SpritePath": "Sprites/Gears/Amor/Pauldron"
+        },
+        {
+          "SpriteString": "Hauberk",
+          "SpritePath": "Sprites/Gears/Amor/Hauberk"
+        },
+        {
+          "SpriteString": "Gardebras",
+          "SpritePath": "Sprites/Gears/Amor/Gardebras"
+        },
+        {
+          "SpriteString": "Armguard",
+          "SpritePath": "Sprites/Gears/Amor/Armguard"
+        },
+        {
+          "SpriteString": "Helmet",
+          "SpritePath": "Sprites/Gears/Amor/Helmet"
+        }
+      ],
+      "EquipmentSpriteList": [
+        {
+          "SpriteString": "Shoes",
+          "SpritePath": "Sprites/Gears/Equipment/Shoes"
+        },
+        {
+          "SpriteString": "Boots",
+          "SpritePath": "Sprites/Gears/Equipment/Boots"
+        },
+        {
+          "SpriteString": "Pants",
+          "SpritePath": "Sprites/Gears/Equipment/Pants"
+        },
+        {
+          "SpriteString": "Trousers",
+          "SpritePath": "Sprites/Gears/Equipment/Trousers"
+        },
+        {
+          "SpriteString": "Waistband",
+          "SpritePath": "Sprites/Gears/Equipment/Waistband"
+        },
+        {
+          "SpriteString": "Belt",
+          "SpritePath": "Sprites/Gears/Equipment/Belt"
+        },
+        {
+          "SpriteString": "Shirt",
+          "SpritePath": "Sprites/Gears/Equipment/Shirt"
+        },
+        {
+          "SpriteString": "Vest",
+          "SpritePath": "Sprites/Gears/Equipment/Vest"
+        },
+        {
+          "SpriteString": "Coat",
+          "SpritePath": "Sprites/Gears/Equipment/Coat"
+        },
+        {
+          "SpriteString": "Gown",
+          "SpritePath": "Sprites/Gears/Equipment/Gown"
+        },
+        {
+          "SpriteString": "Sleeve",
+          "SpritePath": "Sprites/Gears/Equipment/Sleeve"
+        },
+        {
+          "SpriteString": "Glove",
+          "SpritePath": "Sprites/Gears/Equipment/Glove"
+        },
+        {
+          "SpriteString": "Mask",
+          "SpritePath": "Sprites/Gears/Equipment/Mask"
+        },
+        {
+          "SpriteString": "Headgear",
+          "SpritePath": "Sprites/Gears/Equipment/Headgear"
+        }
+      ],
+      "NormalSkillSpriteList": [
+        {
+          "SpriteString": "DashDown",
+          "SpritePath": "Sprites/Skills/NormalSkill/DashDown"
+        },
+        {
+          "SpriteString": "DoubleJump",
+          "SpritePath": "Sprites/Skills/NormalSkill/DoubleJump"
+        },
+        {
+          "SpriteString": "IronBody",
+          "SpritePath": "Sprites/Skills/NormalSkill/IronBody"
+        },
+        {
+          "SpriteString": "TitanForce",
+          "SpritePath": "Sprites/Skills/NormalSkill/TitanForce"
+        }
+      ],
+      "BattleSkillSpriteList": [
+        {
+          "SpriteString": "Block",
+          "SpritePath": "Sprites/Skills/BattleSkill/Block"
+        },
+        {
+          "SpriteString": "Impact",
+          "SpritePath": "Sprites/Skills/BattleSkill/Impact"
+        },
+        {
+          "SpriteString": "Parry",
+          "SpritePath": "Sprites/Skills/BattleSkill/Parry"
+        },
+        {
+          "SpriteString": "Swipe",
+          "SpritePath": "Sprites/Skills/BattleSkill/Swipe"
+        }
+      ],
+      "ItemSpriteList": [
+        {
+          "SpriteString": "HeartStone",
+          "SpritePath": "Sprites/Items/HeartStone"
+        },
+        {
+          "SpriteString": "TransferStone",
+          "SpritePath": "Sprites/Items/TransferStone"
+        }
+      ]
+    }
+  ]
+}

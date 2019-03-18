@@ -1,0 +1,32 @@
+﻿
+public enum PartOfBodyType {
+    None,
+    [PropertiesDescription("头部")]
+    Head,//头
+    [PropertiesDescription("手部")]
+    Hands,//手、
+    [PropertiesDescription("手臂")]
+    Arm,//手臂
+    [PropertiesDescription("肩部")]
+    Torso,//肩
+    [PropertiesDescription("上身")]
+    Shoulder,//躯干
+    [PropertiesDescription("胸部")]
+    Chest,//胸
+    [PropertiesDescription("腹部")]
+    Abdomen,//腹
+    [PropertiesDescription("腰部")]
+    Waist,//腰
+    [PropertiesDescription("下身")]
+    LowerPart,//下身
+    [PropertiesDescription("臀部")]
+    Buttocks,//臀
+    [PropertiesDescription("腿部")]
+    Leg,//腿
+    [PropertiesDescription("膝盖")]
+    Knee,//膝盖
+    [PropertiesDescription("脚部")]
+    Foots,//脚
+    [PropertiesDescription("左手")]
+    LeftHand,
+}

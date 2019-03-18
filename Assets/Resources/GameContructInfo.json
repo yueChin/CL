@@ -1,0 +1,252 @@
+{
+  "gameContructInfoList": [
+
+    {
+      "playerInfoList": [
+        {
+          "playerTypeString": "Hunter",
+          "playerPath": "Player/Prefabs/Hunter"
+        },
+
+        {
+          "playerTypeString": "Sphere",
+          "playerPath": "Player/Prefabs/Sphere"
+        },
+
+        {
+          "playerTypeString": "Bag",
+          "playerPath": "Player/Prefabs/Bag"
+        },
+
+        {
+          "playerTypeString": "Barrel",
+          "playerPath": "Player/Prefabs/Barrel"
+        },
+
+        {
+          "playerTypeString": "Bucket",
+          "playerPath": "Player/Prefabs/Bucket"
+        }
+
+      ],
+
+      "mapInfoList": [
+        {
+          "mapTypeString": "Rain",
+          "MapPath": "Map/Prefabs/TriangleRain"
+        },
+
+        {
+          "mapTypeString": "Desert",
+          "MapPath": "Map/Prefabs/TriangleSmokeDesert"
+        }
+
+      ],
+
+      "cubeInfoList": [
+        {
+          "cubeTypeString": "Green",
+          "cubePath": "Cube/Prefabs/Cube+0"
+        },
+
+        {
+          "cubeTypeString": "Blue",
+          "cubePath": "Cube/Prefabs/Cube+1"
+        },
+
+        {
+          "cubeTypeString": "Yellow",
+          "cubePath": "Cube/Prefabs/Cube+5"
+        },
+
+        {
+          "cubeTypeString": "Red",
+          "cubePath": "Cube/Prefabs/Cube-2"
+        }
+
+      ],
+
+      "buildInfoList": [
+        {
+          "buildTypeString": "HG1",
+          "buildPath": "Build/Prefabs/Buildings/House_1_GREEN"
+        },
+
+        {
+          "buildTypeString": "HG2",
+          "buildPath": "Build/Prefabs/Buildings/House_2_GREEN"
+        },
+
+        {
+          "buildTypeString": "HG3",
+          "buildPath": "Build/Prefabs/Buildings/House_3_GREEN"
+        },
+
+        {
+          "buildTypeString": "HG4",
+          "buildPath": "Build/Prefabs/Buildings/House_4_GREEN"
+        },
+
+        {
+          "buildTypeString": "HY1",
+          "buildPath": "Build/Prefabs/Buildings/House_1_YELLOW"
+        },
+
+        {
+          "buildTypeString": "HY2",
+          "buildPath": "Build/Prefabs/Buildings/House_2_YELLOW"
+        },
+
+        {
+          "buildTypeString": "HY3",
+          "buildPath": "Build/Prefabs/Buildings/House_3_YELLOW"
+        },
+
+        {
+          "buildTypeString": "HY4",
+          "buildPath": "Build/Prefabs/Buildings/House_4_YELLOW"
+        },
+
+        {
+          "buildTypeString": "MBush2",
+          "buildPath": "Build/Prefabs/Mountains/Bush2"
+        },
+
+        {
+          "buildTypeString": "MClifs3",
+          "buildPath": "Build/Prefabs/Mountains/Clifs_3"
+        },
+
+        {
+          "buildTypeString": "MClifs4",
+          "buildPath": "Build/Prefabs/Mountains/Clifs_4"
+        },
+
+        {
+          "buildTypeString": "MIceRocks1",
+          "buildPath": "Build/Prefabs/Mountains/IceRocks1"
+        },
+
+        {
+          "buildTypeString": "MMountain8",
+          "buildPath": "Build/Prefabs/Mountains/Mountain8"
+        },
+
+        {
+          "buildTypeString": "MMountains11",
+          "buildPath": "Build/Prefabs/Mountains/Mountains11"
+        },
+
+        {
+          "buildTypeString": "MRock2",
+          "buildPath": "Build/Prefabs/Mountains/Rock_2"
+        },
+
+        {
+          "buildTypeString": "MRock3",
+          "buildPath": "Build/Prefabs/Mountains/Rock_3"
+        },
+
+        {
+          "buildTypeString": "MRock6",
+          "buildPath": "Build/Prefabs/Mountains/Rock_6"
+        },
+
+        {
+          "buildTypeString": "MRock9",
+          "buildPath": "Build/Prefabs/Mountains/Rock_9"
+        },
+
+        {
+          "buildTypeString": "MRock10",
+          "buildPath": "Build/Prefabs/Mountains/Rock_10"
+        },
+
+        {
+          "buildTypeString": "MRock12",
+          "buildPath": "Build/Prefabs/Mountains/Rock_12"
+        },
+
+        {
+          "buildTypeString": "MStone1",
+          "buildPath": "Build/Prefabs/Mountains/Stone_1"
+        },
+
+        {
+          "buildTypeString": "MStone2",
+          "buildPath": "Build/Prefabs/Mountains/Stone_2"
+        },
+
+        {
+          "buildTypeString": "MoleCheak",
+          "buildPath": "Build/Prefabs/Moles/mole_cheak"
+        },
+
+        {
+          "buildTypeString": "MoleDr",
+          "buildPath": "Build/Prefabs/Moles/mole_dr"
+        },
+
+        {
+          "buildTypeString": "MoleEyebrow",
+          "buildPath": "Build/Prefabs/Moles/mole_eyebrow"
+        },
+
+        {
+          "buildTypeString": "MoleHair",
+          "buildPath": "Build/Prefabs/Moles/mole_hair"
+        },
+
+        {
+          "buildTypeString": "MoleHat",
+          "buildPath": "Build/Prefabs/Moles/mole_hat"
+        },
+
+        {
+          "buildTypeString": "MoleNormal",
+          "buildPath": "Build/Prefabs/Moles/mole_normal"
+        },
+
+        {
+          "buildTypeString": "MolePickaxe",
+          "buildPath": "Build/Prefabs/Moles/mole_pickaxe"
+        },
+
+        {
+          "buildTypeString": "MoleRadio",
+          "buildPath": "Build/Prefabs/Moles/mole_radio"
+        },
+
+        {
+          "buildTypeString": "MoleSunglass",
+          "buildPath": "Build/Prefabs/Moles/mole_sunglass"
+        },
+
+        {
+          "buildTypeString": "MoleTooth",
+          "buildPath": "Build/Prefabs/Moles/mole_tooth"
+        },
+
+        {
+          "buildTypeString": "TBush1",
+          "buildPath": "Build/Prefabs/Trees/Bush_1"
+        },
+
+        {
+          "buildTypeString": "TTree2",
+          "buildPath": "Build/Prefabs/Trees/tree"
+        },
+
+        {
+          "buildTypeString": "TTree1",
+          "buildPath": "Build/Prefabs/Trees/Tree_1"
+        },
+
+        {
+          "buildTypeString": "TTree3",
+          "buildPath": "Build/Prefabs/Trees/Tree_3"
+        }
+      ]
+    }
+  ]
+}

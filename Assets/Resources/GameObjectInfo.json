@@ -1,0 +1,304 @@
+{
+  "GameObjectInfoList": [
+
+    {
+      "PlayerGOList": [
+        {
+          "GameObjectString": "Hunter",
+          "GameObjectPath": "Creature/Player/Prefabs/Hunter"
+        },
+
+        {
+          "GameObjectString": "Sphere",
+          "GameObjectPath": "Creature/Player/Prefabs/Sphere"
+        },
+
+        {
+          "GameObjectString": "Bag",
+          "GameObjectPath": "Creature/Player/Prefabs/Bag"
+        },
+
+        {
+          "GameObjectString": "Barrel",
+          "GameObjectPath": "Creature/Player/Prefabs/Barrel"
+        },
+
+        {
+          "GameObjectString": "Bucket",
+          "GameObjectPath": "Creature/Player/Prefabs/Bucket"
+        }
+      ],
+
+      "EnemyGOList": [
+        {
+          "GameObjectString": "Bandit",
+          "GameObjectPath": "Creature/EnemyCreature/Bandit/Bandit"
+        },
+        {
+          "GameObjectString": "Brigand",
+          "GameObjectPath": "Creature/EnemyCreature/Brigand/Brigand"
+        },
+        {
+          "GameObjectString": "Cateran",
+          "GameObjectPath": "Creature/EnemyCreature/Cateran/Cateran"
+        },
+        {
+          "GameObjectString": "Private",
+          "GameObjectPath": "Creature/EnemyCreature/Private/Private"
+        },
+        {
+          "GameObjectString": "Robber",
+          "GameObjectPath": "Creature/EnemyCreature/Robber/Robber"
+        },
+        {
+          "GameObjectString": "Thief",
+          "GameObjectPath": "Creature/EnemyCreature/Thief/Thief"
+        }
+      ],
+
+      "NPCGOList": [
+        {
+          "GameObjectString": "Blacksmith",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Blacksmith"
+        },
+        {
+          "GameObjectString": "Citizen",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Citizen"
+        },
+        {
+          "GameObjectString": "Trader",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Trader"
+        },
+        {
+          "GameObjectString": "Traveller",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Traveller"
+        },
+        {
+          "GameObjectString": "Vendor",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Vendor"
+        },
+        {
+          "GameObjectString": "Warrior",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Warrior"
+        },
+        {
+          "GameObjectString": "Wizard",
+          "GameObjectPath": "Creature/GoodCreature/Prefab/Wizard"
+        }
+      ],
+
+      "MapGOList": [
+        {
+          "GameObjectString": "Rain",
+          "GameObjectPath": "Map/Prefabs/TriangleRain"
+        },
+
+        {
+          "GameObjectString": "Desert",
+          "GameObjectPath": "Map/Prefabs/TriangleSmokeDesert"
+        }
+      ],
+
+      "CubeGOList": [
+        {
+          "GameObjectString": "Green",
+          "GameObjectPath": "Cube/Prefabs/Cube+0"
+        },
+
+        {
+          "GameObjectString": "Blue",
+          "GameObjectPath": "Cube/Prefabs/Cube+1"
+        },
+
+        {
+          "GameObjectString": "Yellow",
+          "GameObjectPath": "Cube/Prefabs/Cube+5"
+        },
+
+        {
+          "GameObjectString": "Red",
+          "GameObjectPath": "Cube/Prefabs/Cube-2"
+        }
+      ],
+      "BuildGOList": [
+        {
+          "GameObjectString": "HG1",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_1_GREEN"
+        },
+
+        {
+          "GameObjectString": "HG2",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_2_GREEN"
+        },
+
+        {
+          "GameObjectString": "HG3",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_3_GREEN"
+        },
+
+        {
+          "GameObjectString": "HG4",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_4_GREEN"
+        },
+
+        {
+          "GameObjectString": "HY1",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_1_YELLOW"
+        },
+
+        {
+          "GameObjectString": "HY2",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_2_YELLOW"
+        },
+
+        {
+          "GameObjectString": "HY3",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_3_YELLOW"
+        },
+
+        {
+          "GameObjectString": "HY4",
+          "GameObjectPath": "Build/Prefabs/Buildings/House_4_YELLOW"
+        },
+
+        {
+          "GameObjectString": "MBush2",
+          "GameObjectPath": "Build/Prefabs/Mountains/Bush2"
+        },
+
+        {
+          "GameObjectString": "MClifs3",
+          "GameObjectPath": "Build/Prefabs/Mountains/Clifs_3"
+        },
+
+        {
+          "GameObjectString": "MClifs4",
+          "GameObjectPath": "Build/Prefabs/Mountains/Clifs_4"
+        },
+
+        {
+          "GameObjectString": "MIceRocks1",
+          "GameObjectPath": "Build/Prefabs/Mountains/IceRocks1"
+        },
+
+        {
+          "GameObjectString": "MMountain8",
+          "GameObjectPath": "Build/Prefabs/Mountains/Mountain8"
+        },
+
+        {
+          "GameObjectString": "MMountains11",
+          "GameObjectPath": "Build/Prefabs/Mountains/Mountains11"
+        },
+
+        {
+          "GameObjectString": "MRock2",
+          "GameObjectPath": "Build/Prefabs/Mountains/Rock_2"
+        },
+
+        {
+          "GameObjectString": "MRock3",
+          "GameObjectPath": "Build/Prefabs/Mountains/Rock_3"
+        },
+
+        {
+          "GameObjectString": "MRock6",
+          "GameObjectPath": "Build/Prefabs/Mountains/Rock_6"
+        },
+
+        {
+          "GameObjectString": "MRock9",
+          "GameObjectPath": "Build/Prefabs/Mountains/Rock_9"
+        },
+
+        {
+          "GameObjectString": "MRock10",
+          "GameObjectPath": "Build/Prefabs/Mountains/Rock_10"
+        },
+
+        {
+          "GameObjectString": "MRock12",
+          "GameObjectPath": "Build/Prefabs/Mountains/Rock_12"
+        },
+
+        {
+          "GameObjectString": "MStone1",
+          "GameObjectPath": "Build/Prefabs/Mountains/Stone_1"
+        },
+
+        {
+          "GameObjectString": "MStone2",
+          "GameObjectPath": "Build/Prefabs/Mountains/Stone_2"
+        },
+
+        {
+          "GameObjectString": "MoleCheak",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_cheak"
+        },
+
+        {
+          "GameObjectString": "MoleDr",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_dr"
+        },
+
+        {
+          "GameObjectString": "MoleEyebrow",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_eyebrow"
+        },
+
+        {
+          "GameObjectString": "MoleHair",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_hair"
+        },
+
+        {
+          "GameObjectString": "MoleHat",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_hat"
+        },
+
+        {
+          "GameObjectString": "MoleNormal",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_normal"
+        },
+
+        {
+          "GameObjectString": "MolePickaxe",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_pickaxe"
+        },
+
+        {
+          "GameObjectString": "MoleRadio",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_radio"
+        },
+
+        {
+          "GameObjectString": "MoleSunglass",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_sunglass"
+        },
+
+        {
+          "GameObjectString": "MoleTooth",
+          "GameObjectPath": "Build/Prefabs/Moles/mole_tooth"
+        },
+
+        {
+          "GameObjectString": "TBush1",
+          "GameObjectPath": "Build/Prefabs/Trees/Bush_1"
+        },
+
+        {
+          "GameObjectString": "TTree2",
+          "GameObjectPath": "Build/Prefabs/Trees/tree"
+        },
+        {
+          "GameObjectString": "TTree1",
+          "GameObjectPath": "Build/Prefabs/Trees/Tree_1"
+        },
+        {
+          "GameObjectString": "TTree3",
+          "GameObjectPath": "Build/Prefabs/Trees/Tree_3"
+        }
+      ]
+    }
+  ]
+}
