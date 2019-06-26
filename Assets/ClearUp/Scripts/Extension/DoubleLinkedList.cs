@@ -305,6 +305,18 @@ public class DoubleLinkedList<T> : ILinkedList<T>
         int index = this.IndexOf(node.DataValue);
         return this.Remove(index);
     }
+    
+    public bool Remove(T value)
+    {
+        if (value == null)
+        {
+            //throw new Exception("节点不可以为空，无法进行删除.");
+            Debug.Log("值不可以为空，无法进行删除.");
+            return false;
+        }
+        int index = this.IndexOf(value);
+        return this.Remove(index);
+    }
 
     public bool Remove(int index)
     {
